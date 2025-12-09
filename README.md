@@ -7,7 +7,7 @@ Just a curious mind exploring algorithms, data, and creativity. Learning AI, cod
 </head>
 <body>
   <h1>My AI/ML Blog</h1>
-  <p>Just a curious mind exploring algorithms, data, and creativity. Learning AI, coding experiments, and making ideas real.</p>
+  <p>Welcome! I'm building AI projects and sharing what I learn.</p>
 
   <div class="post">
     <h2>First Post: Hello World!</h2>
